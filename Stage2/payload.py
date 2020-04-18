@@ -1,1 +1,1 @@
-#Command and control scripts
+#command and control scripts
